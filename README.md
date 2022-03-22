@@ -1,2 +1,2 @@
-# webflux-hiberante-reactive-mutiny
+# webflux-hibernate-reactive-mutiny
 Starter repository
